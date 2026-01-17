@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import  { useState } from 'react';
 import { Home, Compass, Users, Headphones, Search } from 'lucide-react';
 import { ListenNow } from './components/ListenNow';
 import { Discover } from './components/Discover';
